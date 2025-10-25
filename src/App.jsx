@@ -1,14 +1,14 @@
-import React from 'react';
-import Chat from './components/Chat';
-import './App.css';
-
+import React from "react";
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-100 p-6">
-      <h1 className="text-center text-3xl font-bold mb-8">Real-Time Chat App</h1>
-      <Chat />
+    <>
+    <div className="min-h-screen bg-gray-100 ">
+      <h1 className="text-center text-4xl font-bold">
+        Hello Naman your solution of vitereact is working well
+      </h1>
     </div>
+    </>
   );
 }
 
